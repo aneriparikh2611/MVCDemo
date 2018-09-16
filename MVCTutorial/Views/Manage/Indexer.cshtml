@@ -1,0 +1,16 @@
+﻿@model MVCTutorial.Models.User
+
+@{
+    ViewBag.Title = "Indexer";
+}
+
+<h2>Indexer</h2>
+
+@{ 
+    var user = Model;
+
+    <div> @user.Name </div><br />
+    <div> @user.EmailAddress </div>
+}
+
+var user 
