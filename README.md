@@ -1,4 +1,4 @@
 
 # MVCDemo
 
-This is my first demo file
+This is my deleted commit
